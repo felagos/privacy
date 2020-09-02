@@ -1,1 +1,1 @@
-# privacy
+permalink: /index.html
