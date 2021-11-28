@@ -1,0 +1,18 @@
+.header {
+    background-color: #3f51b5;
+    padding: 0 20px;
+}
+
+.header span {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+.panel_header {
+    font-size: 20px;
+}
+
+.panel_header p {
+    font-size: 18px;	
+}
